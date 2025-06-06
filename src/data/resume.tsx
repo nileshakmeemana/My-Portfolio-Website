@@ -8,9 +8,9 @@ export const DATA = {
   location: "Colombo, LK",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    "Software Engineer turned Entrepreneur. I love building things and helping people. Very active on Twitter.",
+    "Software Engineering student turned tech enthusiast. Passionate about solving real-world problems through code. Always exploring, always building. Active on LinkedIn and GitHub.",
   summary:
-    "At the end of 2022, I quit my job as a software engineer to go fulltime into building and scaling my own SaaS businesses. In the past, [I pursued a double degree in computer science and business](/#education), [interned at big tech companies in Silicon Valley](https://www.youtube.com/watch?v=d-LJ2e5qKdE), and [competed in over 21 hackathons for fun](/#hackathons). I also had the pleasure of being a part of the first ever in-person cohort of buildspace called [buildspace sf1](https://buildspace.so/sf1).",
+    "Currently pursuing an undergraduate degree in Information Systems, blending tech and strategy to solve real-world problems. Passionate about building impactful software, with hands-on experience in Java EE, web development, and ERP systems. I’ve worked on everything from student management platforms to real-time dashboards — always learning, always building.",
   avatarUrl: "/me.png",
   skills: [
     "React",
@@ -28,11 +28,11 @@ export const DATA = {
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
-    { href: "/blog", icon: NotebookIcon, label: "Blog" },
+    { href: "https://medium.com/@nileshnirmalakmeemana", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
-    email: "hello@example.com",
-    tel: "+123456789",
+    email: "nileshnirmalakmeemana@gmail.com",
+    tel: "+94 78 722 3917",
     social: {
       GitHub: {
         name: "GitHub",
