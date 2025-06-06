@@ -8,7 +8,7 @@ export const DATA = {
   location: "Colombo, LK",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    "Software Engineering student turned tech enthusiast. Passionate about solving real-world problems through code. Always exploring, always building. Active on LinkedIn and GitHub.",
+    "Undergraduate student turned tech enthusiast. Passionate about solving real-world problems through code. Always exploring, always building. Active on LinkedIn and GitHub.",
   summary:
     "Currently pursuing an undergraduate degree in Information Systems, blending tech and strategy to solve real-world problems. Passionate about building impactful software, with hands-on experience in Java EE, web development, and ERP systems. I’ve worked on everything from student management platforms to real-time dashboards — always learning, always building.",
   avatarUrl: "/me.png",
@@ -17,7 +17,6 @@ export const DATA = {
     "Next.js",
     "Typescript",
     "Node.js",
-    "Go",
     "Postgres",
     "Docker",
     "Kubernetes",
