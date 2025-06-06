@@ -17,13 +17,14 @@ export const DATA = {
     "Next.js",
     "Typescript",
     "Node.js",
-    "Python",
     "Go",
     "Postgres",
     "Docker",
     "Kubernetes",
     "Java",
-    "C++",
+    "C#",
+    ".NET",
+    "ASP.NET",
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
@@ -35,28 +36,28 @@ export const DATA = {
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://dub.sh/dillion-github",
+        url: "https://github.com/nileshakmeemana",
         icon: Icons.github,
 
         navbar: true,
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://dub.sh/dillion-linkedin",
+        url: "https://www.linkedin.com/in/nilesh-akmeemana-509731241/",
         icon: Icons.linkedin,
 
         navbar: true,
       },
       X: {
         name: "X",
-        url: "https://dub.sh/dillion-twitter",
+        url: "https://x.com/NileshAkmeemana",
         icon: Icons.x,
 
         navbar: true,
       },
       Youtube: {
         name: "Youtube",
-        url: "https://dub.sh/dillion-youtube",
+        url: "https://youtube.com/playlist?list=PLl1Oq65ZLUzHGMh3f2QfjTqiQ2U4ge7xQ&si=XXsVstFRdyEcollY",
         icon: Icons.youtube,
         navbar: true,
       },
