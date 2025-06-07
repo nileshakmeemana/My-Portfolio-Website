@@ -304,8 +304,8 @@ export const DATA = {
         "https://pub-83c5db439b40468498f97946200806f7.r2.dev/automatic-chat.mp4",
     },
   ],
-  otherprojects: [
-    /* {
+  hackathons: [
+    {
       title: "Hack Western 5",
       dates: "November 23rd - 25th, 2018",
       location: "London, Ontario",
@@ -337,7 +337,7 @@ export const DATA = {
       image:
         "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/firstnet.png",
       links: [],
-    }, */
+    },
     {
       title: "DeveloperWeek Hackathon",
       dates: "February 3rd - 4th, 2018",
@@ -463,7 +463,7 @@ export const DATA = {
         },
       ],
     },
-    /* {
+    {
       title: "Global AI Hackathon - Toronto",
       dates: "June 23rd - 25th, 2017",
       location: "Toronto, Ontario",
@@ -687,6 +687,6 @@ export const DATA = {
           href: "https://github.com/UWPortalSDK/crowmark",
         },
       ],
-    }, */
+    },
   ],
 } as const;
