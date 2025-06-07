@@ -175,9 +175,9 @@ export default function Page() {
           </BlurFade>
           <BlurFade delay={BLUR_FADE_DELAY * 14}>
             <ul className="mb-4 ml-4 divide-y divide-dashed border-l">
-              {DATA.otherprojects.map((project, id) => (
+              {DATA.otherprojects.map((otherprojects, id) => (
                 <BlurFade
-                  key={project.title + project.dates}
+                  key={otherprojects.title + otherprojects.dates}
                   delay={BLUR_FADE_DELAY * 15 + id * 0.05}
                 >
                   <otherprojectsCard
