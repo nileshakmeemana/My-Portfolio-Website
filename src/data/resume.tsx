@@ -29,7 +29,11 @@ export const DATA = {
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
-    { href: "https://medium.com/@nileshnirmalakmeemana", icon: NotebookIcon, label: "Blog" },
+    {
+      href: "https://medium.com/@nileshnirmalakmeemana",
+      icon: NotebookIcon,
+      label: "Blog",
+    },
   ],
   contact: {
     email: "nileshnirmalakmeemana@gmail.com",
@@ -95,7 +99,7 @@ export const DATA = {
       start: "January 2021",
       end: "Present",
       description:
-        "Implemented a custom Kubernetes controller in Go to automate the deployment of MySQL and ProxySQL custom resources in order to enable 2,000+ internal developers to instantly deploy their app databases to production. Wrote several scripts in Go to automate MySQL database failovers while maintaining master-slave replication topologies and keeping Zookeeper nodes consistent with changes.",
+        "Worked as a freelance developer on Upwork, delivering custom software solutions to clients around the world. Built web apps, dashboards, and automation tools tailored to each client's needs — from full-stack systems to backend integrations. Collaborated directly with businesses to solve real-world problems, manage tight deadlines, and ship production-ready code that made a measurable impact.",
     },
     {
       company: "Fiverr",
@@ -107,7 +111,7 @@ export const DATA = {
       start: "January 2020",
       end: "Present",
       description:
-        "Architected and wrote the entire MVP of the GeForce Now Cloud Gaming internal admin and A/B testing dashboard using React, Redux, TypeScript, and Python.",
+        "Worked as a freelance developer on Fiverr, delivering custom software solutions to clients around the world. Built web apps, dashboards, and automation tools tailored to each client's needs — from full-stack systems to backend integrations. Collaborated directly with businesses to solve real-world problems, manage tight deadlines, and ship production-ready code that made a measurable impact.",
     },
     /* {
       company: "Splunk",
@@ -463,7 +467,7 @@ export const DATA = {
         },
       ],
     },
-/*     {
+    /*     {
       title: "Global AI Hackathon - Toronto",
       dates: "June 23rd - 25th, 2017",
       location: "Toronto, Ontario",
