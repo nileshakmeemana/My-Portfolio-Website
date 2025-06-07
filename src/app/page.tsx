@@ -167,7 +167,7 @@ export default function Page() {
                   Throughout university, I built and shared 15+ projects on
                   GitHub everything from full-stack web apps to backend APIs and
                   real-time dashboards. Each repo represents a learning
-                  milestone, a late-night coding session, or a challenge I was
+                  milestone, a late night coding session, or a challenge I was
                   eager to solve. It's been amazing to turn ideas into working
                   software and connect with others who are just as Passionate
                   about building applications.
