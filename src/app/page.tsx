@@ -181,12 +181,12 @@ export default function Page() {
                   delay={BLUR_FADE_DELAY * 15 + id * 0.05}
                 >
                   <otherprojectsCard
-                    title={project.title}
-                    description={project.description}
-                    location={project.location}
-                    dates={project.dates}
-                    image={project.image}
-                    links={project.links}
+                    title={otherprojects.title}
+                    description={otherprojects.description}
+                    location={otherprojects.location}
+                    dates={otherprojects.dates}
+                    image={otherprojects.image}
+                    links={otherprojects.links}
                   />
                 </BlurFade>
               ))}
