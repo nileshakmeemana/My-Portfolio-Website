@@ -164,7 +164,7 @@ export default function Page() {
                   I like building things
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  Throughout university, I built and shared 15+ projects on
+                  &#39;Throughout university, I built and shared 15+ projects on
                   GitHub — everything from full-stack web apps to backend APIs
                   and real-time dashboards. Each repo represents a learning
                   milestone, a late-night coding session, or a challenge I was
