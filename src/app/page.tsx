@@ -158,18 +158,13 @@ export default function Page() {
             <div className="flex flex-col items-center justify-center space-y-4 text-center">
               <div className="space-y-2">
                 <div className="inline-block rounded-lg bg-foreground text-background px-3 py-1 text-sm">
-                  Hackathons
+                  My Other Projects
                 </div>
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">
                   I like building things
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  During my time in university, I attended{" "}
-                  {DATA.hackathons.length}+ hackathons. People from around the
-                  country would come together and build incredible things in 2-3
-                  days. It was eye-opening to see the endless possibilities
-                  brought to life by a group of motivated and passionate
-                  individuals.
+                Throughout university, I built and shared 15+ projects on GitHub — everything from full-stack web apps to backend APIs and real-time dashboards. Each repo represents a learning milestone, a late-night coding session, or a challenge I was eager to solve. It's been amazing to turn ideas into working software and connect with others who are just as passionate about building.
                 </p>
               </div>
             </div>

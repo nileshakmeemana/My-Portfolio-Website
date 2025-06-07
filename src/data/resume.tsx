@@ -463,7 +463,7 @@ export const DATA = {
         },
       ],
     },
-    {
+/*     {
       title: "Global AI Hackathon - Toronto",
       dates: "June 23rd - 25th, 2017",
       location: "Toronto, Ontario",
@@ -484,7 +484,7 @@ export const DATA = {
           href: "https://github.com/TinySamosas/",
         },
       ],
-    },
+    }, */
     /* {
       title: "McGill AI for Social Innovation Hackathon",
       dates: "June 17th - 18th, 2017",
