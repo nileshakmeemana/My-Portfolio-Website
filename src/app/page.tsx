@@ -164,13 +164,11 @@ export default function Page() {
                   I like building things
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  Throughout university, I built and shared 15+ projects on
-                  GitHub — everything from full-stack web apps to backend APIs
-                  and real-time dashboards. Each repo represents a learning
-                  milestone, a late-night coding session, or a challenge I was
-                  eager to solve. It's been amazing to turn ideas into working
-                  software and connect with others who are just as passionate
-                  about building.
+                  During my time in university, I attended hackathons. People
+                  from around the country would come together and build
+                  incredible things in 2-3 days. It was eye-opening to see the
+                  endless possibilities brought to life by a group of motivated
+                  and passionate individuals.
                 </p>
               </div>
             </div>
