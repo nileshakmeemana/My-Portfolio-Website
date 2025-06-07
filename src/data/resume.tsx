@@ -151,7 +151,7 @@ export const DATA = {
       school: "NSBM Green University",
       href: "https://nsbm.ac.lk/",
       degree: "Bachelor's Degree in Information Systems (Special)",
-      logoUrl: "/nsbm.jpg",
+      logoUrl: "/nsbm.png",
       start: "2023",
       end: "2027",
     },
