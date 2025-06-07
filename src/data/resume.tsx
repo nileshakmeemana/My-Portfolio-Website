@@ -73,7 +73,7 @@ export const DATA = {
   },
 
   work: [
-    {
+    /* {
       company: "Atomic Finance",
       href: "https://atomic.finance",
       badges: [],
@@ -84,14 +84,14 @@ export const DATA = {
       end: "Oct 2022",
       description:
         "Implemented the Bitcoin discreet log contract (DLC) protocol specifications as an open source Typescript SDK. Dockerized all microservices and setup production kubernetes cluster. Architected a data lake using AWS S3 and Athena for historical backtesting of bitcoin trading strategies. Built a mobile app using react native and typescript.",
-    },
+    }, */
     {
       company: "Upwork",
       badges: [],
       href: "https://shopify.com",
       location: "Remote",
       title: "Software Engineer",
-      logoUrl: "/upwork.svg",
+      logoUrl: "/upwork.png",
       start: "January 2021",
       end: "Present",
       description:
@@ -109,7 +109,7 @@ export const DATA = {
       description:
         "Architected and wrote the entire MVP of the GeForce Now Cloud Gaming internal admin and A/B testing dashboard using React, Redux, TypeScript, and Python.",
     },
-    {
+    /* {
       company: "Splunk",
       href: "https://splunk.com",
       badges: [],
@@ -144,7 +144,7 @@ export const DATA = {
       end: "August 2017",
       description:
         "Designed and implemented a robust password encryption and browser cookie storage system in Ruby on Rails. Leveraged the Yahoo finance API to develop the dividend.com equity screener",
-    },
+    }, */
   ],
   education: [
     {
@@ -163,7 +163,7 @@ export const DATA = {
       start: "2014",
       end: "2022",
     },
-    {
+    /* {
       school: "Wilfrid Laurier University",
       href: "https://wlu.ca",
       degree: "Bachelor's Degree of Business Administration (BBA)",
@@ -178,7 +178,7 @@ export const DATA = {
       logoUrl: "/ib.png",
       start: "2012",
       end: "2016",
-    },
+    }, */
   ],
   projects: [
     {
