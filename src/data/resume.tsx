@@ -93,7 +93,7 @@ export const DATA = {
     {
       company: "Upwork",
       badges: [],
-      href: "https://shopify.com",
+      href: "https://upwork.com",
       location: "Remote",
       title: "Software Engineer",
       logoUrl: "/upwork.png",
@@ -113,6 +113,18 @@ export const DATA = {
       end: "Present",
       description:
         "Worked as a freelance developer on Fiverr, delivering custom software solutions to clients around the world. Built web apps, dashboards, and automation tools tailored to each client's needs — from full-stack systems to backend integrations. Collaborated directly with businesses to solve real-world problems, manage tight deadlines, and ship production-ready code that made a measurable impact.",
+    },
+    {
+      company: "DevSquad",
+      href: "https://devsquad.com/",
+      badges: [],
+      location: "Remote",
+      title: "Software Developer",
+      logoUrl: "/devsquad.png",
+      start: "May 2025",
+      end: "Present",
+      description:
+        "Founded and led DevSquad, a community dedicated to helping university students with coding assignments and academic projects. Collaborated with peers to build full-stack systems, debug complex issues, and deliver clean, functional code under tight deadlines. Through DevSquad, I’ve supported dozens of students in mastering concepts, meeting coursework requirements, and building confidence in their technical skills..",
     },
     /* {
       company: "Splunk",
