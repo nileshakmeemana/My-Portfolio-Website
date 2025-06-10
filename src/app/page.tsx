@@ -1,4 +1,5 @@
 import { HackathonCard } from "@/components/hackathon-card";
+import { CertificationCard } from "@/components/certification-card";
 import BlurFade from "@/components/magicui/blur-fade";
 import BlurFadeText from "@/components/magicui/blur-fade-text";
 import { ProjectCard } from "@/components/project-card";
@@ -196,7 +197,7 @@ export default function Page() {
           </BlurFade>
         </div>
       </section>
-      <section id="hackathons">
+      <section id="certifications">
         <div className="space-y-12 w-full py-12">
           <BlurFade delay={BLUR_FADE_DELAY * 13}>
             <div className="flex flex-col items-center justify-center space-y-4 text-center">

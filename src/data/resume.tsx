@@ -707,7 +707,7 @@ export const DATA = {
     }, */
   ],
 
-  hackathons: [
+  certifications: [
     {
       title: "Hack Western 5",
       dates: "November 23rd - 25th, 2018",
